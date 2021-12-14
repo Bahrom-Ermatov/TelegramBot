@@ -1,0 +1,3 @@
+TOKEN = '5030559217:AAGK402crqqUeo4C4deaknjrgiFp1WQeewY'
+PROXY = 'http://192.168.220.37:7770'
+
